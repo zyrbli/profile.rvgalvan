@@ -1,8 +1,29 @@
 body {
+    margin: 0%;
 
 }
 
+.menu {
+        position: fixed;
+        top: 0%;
+        width: 100%;
+        text-align: center;
+        color: white;
+        background-color: black;
+        padding: 3px 3px;
+        vertical-align: middle;
+}
+
 nav {
-    display: inline-block;
-    align-content: flex-end;
+
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    position:fixed;
+    bottom: 1px;
+    width: 100%;
+    text-align: center;
+    padding: 2px 2px;
 }
