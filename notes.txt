@@ -1,0 +1,8 @@
+CONTENT:
+
+Landing Page
+Skills
+Projects
+About
+Request Qoutation
+Contact Info
