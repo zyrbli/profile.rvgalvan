@@ -1,0 +1,34 @@
+CONTENT:
+
+Landing Page
+    Romano Villo Galvan
+    Full Stack Web Developer | Digital Marketer
+
+Skills
+    HTML            ==================================================
+    CSS             ===========================================
+    JAVASCRIPT      ====================================
+
+Projects
+    http://www.webdd.com
+    http://www.sscs.edu.ph
+    http://www.cleverhouse.ph
+    http://www.exploretarlac.com
+    http://www.iamww.com
+    http://www.koolay.com
+    http://www.rojen.com.ph
+
+About
+    mission:
+
+    vision:
+
+Request Qoutation
+
+Contact Info
+    Mobile No.: 0965 093 3555
+    Landline No.: (045)
+    Github: https://github.com/zyrbli
+    FB Page: https://facebook.com/webdd.ph
+    Tweeter: 
+    
